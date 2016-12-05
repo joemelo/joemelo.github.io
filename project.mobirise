@@ -261,13 +261,15 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
               "name": "cloud",
-              "link": "https://mobirise.com",
+              "family": "cm-icon",
+              "active": true,
+              "link": "index.html#features16-2",
               "size": 0,
               "color": "#fc7a60",
-              "family": "cm-icon"
+              "newWindow": false
             }
           },
           "subtitle1": "Subordinate Clauses",
@@ -279,9 +281,10 @@
               "name": "gamepad",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features16-2",
               "size": 0,
-              "color": "#fc7a60"
+              "color": "#fc7a60",
+              "newWindow": false
             }
           },
           "subtitle2": "Games",
@@ -294,9 +297,10 @@
               "name": "video",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features16-2",
               "size": 0,
-              "color": "#fc7a60"
+              "color": "#fc7a60",
+              "newWindow": false
             }
           },
           "subtitle3": "Videos",
@@ -305,12 +309,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features16",
               "linkInNewWindow": false,
-              "name": "question",
+              "name": "folder",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features16-2",
               "size": 0,
-              "color": "#fc7a60"
+              "color": "#fc7a60",
+              "newWindow": false
             }
           },
           "subtitle4": "QUIZZES",
@@ -366,12 +371,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "globe",
+              "name": "chat",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features2-3",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "subtitle1": "Theme:&nbsp;",
@@ -384,9 +390,10 @@
               "name": "video",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features2-3",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "subtitle2": "Videos",
@@ -396,12 +403,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "gamepad",
-              "family": "FontAwesome",
+              "name": "android",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features2-3",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "subtitle3": "Games",
